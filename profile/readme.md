@@ -1,12 +1,5 @@
 ![Axiom Drift AI](../axiom_drift_banner.svg)
 
-<div align="center">
-
-# Axiom Drift AI
-### Long-form human–LLM interaction
-
-</div>
-
 ---
 
 Axiom Drift AI focuses on the structural dynamics of long-form human–LLM interaction.
