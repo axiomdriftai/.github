@@ -1,4 +1,4 @@
-![Axiom Drift AI](../axiom_drift_banner.svg)
+![Axiom Drift AI](https://raw.githubusercontent.com/axiomdriftai/.github/main/axiom_drift_banner.svg)
 
 ---
 
