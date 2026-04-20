@@ -4,7 +4,7 @@
 
 Axiom Drift AI focuses on the structural dynamics of long-form human–LLM interaction.
 
-The work asks a narrow question: what measurable structure emerges when humans and language models interact over hundreds of turns and what does that structure reveal about the interaction itself?
+The work asks a narrow question: what measurable structure emerges when humans and language models interact over hundreds of turns and what can that structure reveal about the interaction itself?
 
 The approach is non-semantic. Measurements are derived from temporal organization, coupling behavior, and structural properties of the interaction without reference to content, sentiment, or meaning. Findings are published openly and instruments are publicly available.
 
