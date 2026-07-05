@@ -34,6 +34,6 @@ All instruments run entirely in the browser. No data is transmitted or stored.
 
 <div align="center">
 
-[axiomdrift.ai](https://axiomdrift.ai) · [ORCID](https://orcid.org/0009-0007-0457-4342) · [hello@axiomdrift.ai](mailto:hello@axiomdrift.ai) · [A ZIOLA PROJECT](https://www.ziola.dev/index.html) 
+[axiomdrift.ai](https://axiomdrift.ai) · [ORCID](https://orcid.org/0009-0007-0457-4342) · [hello@axiomdrift.ai](mailto:hello@axiomdrift.ai) · [A Ziola Project](https://www.ziola.dev/index.html) 
 
 </div>
